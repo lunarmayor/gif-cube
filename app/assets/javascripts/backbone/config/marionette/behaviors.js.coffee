@@ -1,0 +1,1 @@
+Marionette.Behaviors.behaviorsLookup = => @GifCube.Behaviors
